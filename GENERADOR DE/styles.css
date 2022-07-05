@@ -1,0 +1,26 @@
+body {
+    background-image: url("img/fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    font-family: 'Prompt', sans-serif;
+}
+h1 {
+    position: absolute;
+    top: 70px;
+    left: 350px;
+    background-color:rgb(238, 130, 171);
+    border-radius: 10px;
+    display: inline;
+    padding: 20px;
+}
+section {
+    position: absolute;
+    top: 200px;
+    left: 400px;
+    background-color: rgb(132, 247, 128);
+    border-radius: 10px;
+    display: inline;
+    padding: 20px;
+    text-align: center;
+}
